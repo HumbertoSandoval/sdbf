@@ -4623,11 +4623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INSPIRON 14-5448\\Desktop\\Computacion IX\\PrimerParcial\\Practica01\\Practica01.csproj",
+      "projectUniqueName": "c:\\Users\\INSPIRON 14-5448\\Desktop\\Primer Parcial\\Practica01\\Practica01.csproj",
       "projectName": "Practica01",
-      "projectPath": "C:\\Users\\INSPIRON 14-5448\\Desktop\\Computacion IX\\PrimerParcial\\Practica01\\Practica01.csproj",
+      "projectPath": "c:\\Users\\INSPIRON 14-5448\\Desktop\\Primer Parcial\\Practica01\\Practica01.csproj",
       "packagesPath": "C:\\Users\\INSPIRON 14-5448\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INSPIRON 14-5448\\Desktop\\Computacion IX\\PrimerParcial\\Practica01\\obj\\",
+      "outputPath": "c:\\Users\\INSPIRON 14-5448\\Desktop\\Primer Parcial\\Practica01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
